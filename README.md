@@ -38,12 +38,12 @@ Fork удаленного репозитория средствами GitHub:
 ![Image alt](https://github.com/daviderror/LR6/raw/reportChalyan/Screens/10.jpg)
 
 С помощью git log узнаем hash-code интересующего нас коммита и выполняем команду hard-reset:
-![Image alt](https://github.com/daviderror/LR6/raw/reportChalyan/Screens/12.jpg)
+![Image alt](https://github.com/daviderror/LR6/raw/reportChalyan/Screens/12.png)
 
 Результат выполнения команды:
 ![Image alt](https://github.com/daviderror/LR6/raw/reportChalyan/Screens/11.jpg)
 
 Создание и переход в ветку отчета:
-![Image alt](https://github.com/daviderror/LR6/raw/reportChalyan/Screens/13.jpg)
+![Image alt](https://github.com/daviderror/LR6/raw/reportChalyan/Screens/13.png)
 
 После окончания написания отчета произвел команды git add и git commit и отправил изменения в удаленный репозиторий с помощью git push 
